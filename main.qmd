@@ -72,4 +72,18 @@ Our analysis will focus on exploring key questions such as:
 
 We will employ data visualization, statistical modeling, and exploratory data analysis techniques to uncover relationships between key variables. Integrating the primary subway dataset with weather data will allow us to examine how external conditions affect public transit usage. Our analysis aims to provide a comprehensive view of the factors driving ridership in one of the world's busiest subway systems, offering insights that could inform public transit planning and policy.
 
-\
+# Plots
+
+## Plot 1
+
+## Plot 2
+
+## Plot 3
+
+## Plot 4
+
+## Plot 5
+
+## Plot 6
+
+# Model
