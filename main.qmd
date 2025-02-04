@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This project aims to explore the factors influencing New York City subway ridership using data science techniques in R. The primary dataset for our analysis is the New York City transit data, sourced from a credible public dataset. It provides comprehensive information on subway ridership across various locations, times, and payment methods, containing over 66.8 million rows and 12 columns of raw observational data.
 
-The dataset includes a variety of data types—numerical, textual, and geospatial—which allows for multifaceted analysis and insights into how ridership patterns are affected by various different conditions.
+The dataset includes a variety of data types---numerical, textual, and geospatial---which allows for multifaceted analysis and insights into how ridership patterns are affected by various different conditions.
 
 ## **Dataset Overview**
 
